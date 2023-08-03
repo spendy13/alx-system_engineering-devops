@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -ld[/] [.]* --sort=extension (or -X )
